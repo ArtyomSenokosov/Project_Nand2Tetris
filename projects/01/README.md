@@ -1,1 +1,1 @@
-# Project_Nand2Tetris
+You are required to write an implementation for the combinational logic circuits listed in the attached file. These are the following chips: Not, And, Or, Xor, Mux, DMux, Not16, And16, Or16, Mux16, Or8Way, Mux4Way16, Mux8Way16, DMux4Way, DMux8Way. These circuits are described in the first chapter of the book which describes the Nand2Tetris project that I included in the e-learning platform; in particular, these are the basic chips in the architecture of the Hack processor that we are going to create.
