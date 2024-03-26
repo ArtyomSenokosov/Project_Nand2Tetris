@@ -1,1 +1,3 @@
-# Project_Nand2Tetris
+You are required to write a program in C that takes as input the name of a file with the .vm extension, containing a program written in the Virtual Machine language for the Hack architecture, described in the "Virtual_Machine_Hack.pdf" file present on the e platform -learning, and produces as output a file with the same name but .asm extension containing the translation of this program into Hack assembly language.
+
+The Makefile must generate an executable named “VMtranslator” (via the command "gcc -o VMtranslator ..." where the names of the necessary object files with the .o extension are inserted instead of dots). Only the use of library functions seen during the architecture course and during the programming course is allowed, not arbitrary functions of the C library.
