@@ -1,1 +1,1 @@
-# Project_Nand2Tetris
+You are required to write an implementation for the following sequential logic circuits: Bit, Register, PC, RAM8, RAM64, RAM512, RAM4K, RAM16K. All these circuits are described in the third chapter of the book relating to the Nand2Tetris project that I included in the e-learning platform.
