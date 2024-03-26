@@ -1,1 +1,1 @@
-# Project_Nand2Tetris
+You are required to write an implementation for the combinational logic circuits listed in the attached file. These are the following chips: HalfAdder, FullAdder, Add16, Inc16, ALU. These circuits are described in the second chapter of the book relating to the Nand2Tetris project that I inserted into the e-learning platform; in particular it concerns the creation of the ALU of the Hack processor.
