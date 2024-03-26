@@ -1,1 +1,1 @@
-# Project_Nand2Tetris
+You are required to write a C program that takes as input a file with the .asm extension, containing a program written in the Hack assembly language described in chapter 4 of the book relating to the Nand2Tetris project present in the e-learning platform, and produces as output a file with the same name but .hack extension containing its translation into machine code (16-bit instruction sequences). In the e-learning platform I inserted the "12-Assembler_Hack.pdf" file which describes how to proceed in creating the assembler.
